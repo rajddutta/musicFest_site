@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/musicFest_site/static/css/main.3809163f.css",
+    "main.js": "/musicFest_site/static/js/main.a051a526.js",
+    "static/media/coachella16.mp4": "/musicFest_site/static/media/coachella16.a5dc4db1b3394aae7afc.mp4",
+    "static/media/pic1.jpg": "/musicFest_site/static/media/pic1.688123faf3970d0a8cb9.jpg",
+    "static/media/pic4.jpg": "/musicFest_site/static/media/pic4.91db74c401ecd2928b28.jpg",
+    "static/media/pexels.jpg": "/musicFest_site/static/media/pexels.2e5e8d6c0650ecb19e8f.jpg",
+    "static/media/image1.jpg": "/musicFest_site/static/media/image1.512c72f1a8d91d64d211.jpg",
+    "static/media/pic2.jpg": "/musicFest_site/static/media/pic2.6b1d29eeeb57eee73a3d.jpg",
+    "static/media/pic3.jpg": "/musicFest_site/static/media/pic3.f1204c8ed40367b76b37.jpg",
+    "static/media/pexel.jpg": "/musicFest_site/static/media/pexel.48c799f2e691492b9832.jpg",
+    "index.html": "/musicFest_site/index.html",
+    "main.3809163f.css.map": "/musicFest_site/static/css/main.3809163f.css.map",
+    "main.a051a526.js.map": "/musicFest_site/static/js/main.a051a526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3809163f.css",
+    "static/js/main.a051a526.js"
+  ]
+}
